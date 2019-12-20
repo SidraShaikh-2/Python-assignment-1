@@ -1,0 +1,49 @@
+Question 1:
+Define Object Oriented Programming Language?
+Ans:
+Object-oriented programming (OOP) refers to a type of computer programming (software design) in which programmers define the data type of a data structure, and also the types of operations (functions) that can be applied to the data structure.
+In this way, the data structure becomes an object that includes both data and functions. In addition, programmers can create relationships between one object and another. For example, objects can inherit characteristics from other objects.
+
+Question 2:
+List down the Benefits of OOP?
+Ans:
+Benefits of OOP:
+•	It provides a clear modular structure for programs which makes it good for defining abstract datatypes in which implementation details are hidden
+•	Objects can also be reused within an across applications. The reuse of software also lowers the cost of development. More effort is put into the object-oriented analysis and design, which lowers the overall cost of development.
+•	It makes software easier to maintain. Since the design is modular, part of the system can be updated in case of issues without a need to make large-scale changes
+•	Reuse also enables faster development. Object-oriented programming languages come with rich libraries of objects, and code developed during projects is also reusable in future projects.
+•	It provides a good framework for code libraries where the supplied software components can be easily adapted and modified by the programmer. This is particularly useful for developing graphical user interfaces.
+•	Better Productivity as OOP techniques enforce rules on a programmer that, in the long run, help her get more work done; finished programs work better, have more features and are easier to read and maintain. OOP programmers take new and existing software objects and "stitch" them together to make new programs. Because object libraries contain many useful functions, software developers don't have to reinvent the wheel as often; more of their time goes into making the new program.
+
+
+Question 3:
+Differentiate between function and method?
+Functions
+1.	Functions have independent existence means they can be defined outside of the class. Ex:- main() function in C, C++ Language
+2.	Functions are defined in structured languages like Pascal, C and object-based language like javaScript
+3.	Functions are called independently.
+4.	Functions are a self-describing unit of code.
+Methods
+1.	Methods do not have independent existence they are always defined within a class. Ex:- main() method in C# Language that is defined within a class
+2.	Methods are defined in object-oriented languages like C#, Java
+3.	Methods are called using instance or object.
+4.	Methods are used to a manipulate the instance variable of a class.
+
+
+
+
+Question 4:
+Define the following terms:
+1.	Class
+A user-defined prototype for an object that defines a set of attributes that characterize any object of the class. 
+
+2.	Object
+An object (instance) is an instantiation of a class. When class is defined, only the description for the object is defined. Therefore, no memory or storage is allocated.
+
+3.	Attribute
+The attributes are data members (class variables and instance variables) and methods, accessed via dot notation.
+
+4.	Behavior
+A class's behavior determines how an instance of that class operates; for example, how it will "react" if asked to do something by another class or object or if its internal state changes. Behavior is the only way objects can do anything to themselves or have anything done to them.
+
+
